@@ -2,24 +2,23 @@
 
 🚀 **Curious developer | Lifelong learner | Builder of real projects**
 
-I love learning by **building**, **breaking**, and **fixing** things.  
-My journey focuses on turning ideas into **working applications** using modern web technologies and DevOps practices.
+I love turning ideas into real applications. Always curious, adaptable, and eager to learn, I enjoy tackling challenges head-on and continuously improving my skills.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
+- **Frontend:** React, HTML, CSS, Vanilla JavaScript
+- **Backend:** Node.js, Express, C#, SQLite, MySQL
+- **DevOps & Tools:** Docker & Docker Compose, GitHub Actions (CI/CD), DigitalOcean, Git, VS Code, IntelliJ, Postman
 
-Frontend: React, HTML, CSS, JavaScript
+**🌱 Currently Exploring**
+- Backend–Frontend architecture
+- CI/CD pipelines and automation
+- Dockerized full-stack applications
+- Writing cleaner, more maintainable code
 
-Backend: Node.js, Express, SQLite
-
-DevOps & Tools: Docker & Docker Compose, GitHub Actions (CI/CD), DigitalOcean, Git, VS Code, IntelliJ
-
-🌱 Currently Learning
-
-Backend–Frontend architecture
-
-CI/CD pipelines
-
-Dockerized full-stack applications
-
-Writing cleaner, more maintainable code
-
+**🤹🏻‍♀️ Personal Traits**
+- Problem-solving & analytical thinking
+- Adaptability & continuous learning
+- Collaboration & teamwork
+- Communication skills
+- Creativity & curiosity
+- Attention to detail
