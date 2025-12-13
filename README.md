@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, ✨ I'm Helen ✨
 
-<!--
-**HelenMartmaa/HelenMartmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Curious developer | Lifelong learner | Builder of real projects**
 
-Here are some ideas to get you started:
+I love learning by **building**, **breaking**, and **fixing** things.  
+My journey focuses on turning ideas into **working applications** using modern web technologies and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend: React, HTML, CSS, JavaScript
+
+Backend: Node.js, Express, SQLite
+
+DevOps & Tools: Docker & Docker Compose, GitHub Actions (CI/CD), DigitalOcean, Git, VS Code, IntelliJ
+
+🌱 Currently Learning
+
+Backend–Frontend architecture
+
+CI/CD pipelines
+
+Dockerized full-stack applications
+
+Writing cleaner, more maintainable code
+
