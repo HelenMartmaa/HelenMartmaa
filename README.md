@@ -1,8 +1,12 @@
 ## Hi, ✨ I'm Helen ✨
 
+<p align="center">
+  <img src="./assets/learning-loop.png" width="400" alt="Learning and iteration loop" />
+</p>
+
 🚀 **Curious developer | Lifelong learner | Builder of real projects**
 
-I love turning ideas into real applications. Always curious, adaptable, and eager to learn, I enjoy tackling challenges head-on and continuously improving my skills.
+I love turning ideas into real applications. Always curious and adaptable, I enjoy tackling challenges and continuously improving my skills.
 
 **🛠️ Tech Stack**
 - **Frontend:** React, HTML, CSS, Vanilla JavaScript
@@ -11,14 +15,11 @@ I love turning ideas into real applications. Always curious, adaptable, and eage
 
 **🌱 Currently Exploring**
 - Backend–Frontend architecture
-- CI/CD pipelines and automation
-- Dockerized full-stack applications
+- CI/CD pipelines
 - Writing cleaner, more maintainable code
 
-**🤹🏻‍♀️ Personal Traits**
-- Problem-solving & analytical thinking
-- Adaptability & continuous learning
-- Collaboration & teamwork
-- Communication skills
-- Creativity & curiosity
-- Attention to detail
+**🤹🏻‍♀️ Outside of coding**
+- Playing video games
+- Rollerskating and working out
+- Watching movies and series
+- Occasional nostalgic violin and flute playing
